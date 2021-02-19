@@ -169,7 +169,7 @@ Recode `heat_equip` so instead of having values 1, 2, 3, 4, it contains
 values `"steam"`, `"forced air"`, `"stove"`, and `"electric heating"`
 according to the data dictionary. These new values are as defined below:
 
--   `steam`: steam or not water furnace
+-   `steam`: steam or hot water furnace
 -   `forced air`: forced air furnace
 -   `stove`: heating stoves, cookstove, or other
 -   `electric heating`: electric
@@ -230,7 +230,7 @@ results in two rows and three columns – `year`, `province`, and
 A respondent is considered to be “energy vulnerable” if they spend more
 than 5% of their household income on energy expenses. Recreate the plot
 below, which shows the proportion of respondents who are energy
-vulnerable for each combination of age and income. In 2 - 3 sentences,
+vulnerable for each combination of age and education. In 2 - 3 sentences,
 describe what you observe in the plot.
 
 *Hints:*
